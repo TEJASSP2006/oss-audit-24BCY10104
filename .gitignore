@@ -1,0 +1,10 @@
+# Ignore generated files
+outputs/
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
