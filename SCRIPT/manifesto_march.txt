@@ -1,0 +1,4 @@
+--- THE OPEN SOURCE MANIFESTO ---
+Issued on: 2026-03-27 20:26
+I utilize vim to secure my digital independence.
+My mission in the FOSS community is to build contribute to open source.
